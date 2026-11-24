@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+Oceanos,oceano1.jpg,OK,1600,900,224,224,0.0,1.0,APROBADA
+Oceanos,oceano2.jpg,OK,400,225,224,224,0.0,1.0,APROBADA
+Oceanos,oceano3.jpg,OK,678,452,224,224,0.0,0.984,APROBADA
+Oceanos,oceano4.jpg,OK,648,432,224,224,0.0,1.0,APROBADA
+Oceanos,oceano5.jpg,OK,640,480,224,224,0.0,0.996,APROBADA
+Rios,rio1.jpg,OK,1024,683,224,224,0.004,1.0,APROBADA
+Rios,rio2.jpg,OK,1200,800,224,224,0.0,1.0,APROBADA
+Rios,rio3.jpg,OK,785,1148,224,224,0.008,0.976,APROBADA
+Rios,rio4.jpg,OK,1200,800,224,224,0.0,1.0,APROBADA
+Rios,rio5.jpg,OK,330,220,224,224,0.0,1.0,APROBADA
